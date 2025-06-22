@@ -9,7 +9,6 @@ public class Confession {
         System.out.print("Введите длину забора в см: ");
         int fenceLength = scanner.nextInt();
 
-        // Константы
         int lettersCount = 15; // количество букв
         int spacesCount = 3;   // количество пробелов
 
